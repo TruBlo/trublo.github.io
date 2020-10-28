@@ -1,3 +1,6 @@
+---
+title: TruBlo
+---
 # TruBlo : Trusted and reliable content on future blockchains (H2020-ICT-2020-1)
 
 ## What is TruBlo?
